@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HotelSystem</string>
+
+    <string name="navigation_Drawer_Open">Open navigation drawer</string>
+    <string name="navigation_Drawer_Close">Close navigation drawer</string>
+    <string name="titlePlaceholder">title</string>
+    <string name="DescriptionPlaceholder">Description</string>
+    <string name="pricePlaceholder">Price</string>
+    <string name="reservePlace">Reserve</string>
+
+</resources>
